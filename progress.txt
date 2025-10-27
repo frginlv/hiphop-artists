@@ -1,0 +1,35 @@
+Hello,
+""this is the 23rd oct , hey admins if u are reading this i am still a complete ish beguinner and actually this is my first ysws ,i spent a lot of times on things that probably shouldn't have taken a lot of times but i've modified several times because i wasn't satisfied with the outcome so please don't consider this as a fraud and i am just learning how things work as i am building my project and thanks in advance :)) ""  
+
+---
+This file was made to track my progress on this wonderful project , i am still a beginner though so languages like javascript are new -ish to me ,and i'll try my best to mention evrything that i did before making this txt file ( i kinda forgot to do that ) 
+---
+so i guess on the 6th of october i was brainstorming and i got this idea of making a page talking about my favorite hip hop artists not a wiki tho but there'll be some visuals and features to make the experience in the website fun, on this day i only created the index.html and style.css files 
+---
+later on the 7th of october , i organzied and added the javascript file,json file and i started coding ( i just got my first laptop so typing is a bit slow but i try my best to type as fast as possible to avoid any fraud activity ),
+i braistormed a bit to choose my favorite artists hat i am going to work with, and did a drawing to visualize how the website's going to look like , and coded the html + css file , i also added the artists on the json file 
+---
+on the 8th of october , organized my work and put my files into folders and uploaded the images , also did some modifications on the look of the website using css , also i added a mobile feature for mobile users ,made the js code for the cards and the search bar still working on that tough 
+---
+i's 9th of october , it's currently 2:39 in the morning i just made a spinning vinyl in the corner of the webpage and now i waned to make it into even something better , into a vinyl pop up player like when u click it it smoothly becomes a media player 
+i'll code a bit a go to sleep lol
+---
+it's the 9th of october ,22:24 pm , starting to make a vinyl player 
+00:30 atill having problems with the visuals of the vinyl player OMGGGGG
+yooo just found out why it was a typo lol intead of typing #vinyl-player.active i typed ...:active , i knew the error had to do something with my css code and it was just a typo smh  
+---
+so since saturday i didn't do any coding since i was moving out for university lol today is tuesday , it's 23,54 and i'll work a bit on the project . ofc in this pperiod where i did nothing on this project i was thinking of getting a legal api to use for showing the info about the artists and albums and all that stuff right , but unfortunately couldn't find one and i'll host the songs locally and style everything that is all left to do for now.
+
+!!!!!i was TRYING TO MAKE A GAME TOO AS A 2ND PROJECT BUT WE'LL SEE ABOUT THAT I HOPE I CAN GET ENOUGH TIME 
+
+---
+let's goooo the admins extended the deadline . btw i fixed the thing why the infos and songs wouldn't show in my artist page now i just gotta style it add some visuals and that spinning vinyl in that both pages and work on my sec project 
+
+---
+couldn't work a lot these days i had uni lectures (morning and afternoons) and a lot of work , and today 23oct by midnight i started i fixed the frontend of the second page and index file , also i added a visualizer cool stuff still wnated to place somewhere in the page because i am adding songs , btw i hosting songs locally and i'll probably have some problems uploading that to github (i hope it works ) and it's 4 am of the 24 oct now so probably i'll continue by the morning to film the demo and submit it also i might add a features to download posters of the albums  aaand i hope i can submit it in time <3 . 
+
+with all love frginlv <33
+
+
+
+
