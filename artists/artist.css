@@ -1,0 +1,320 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif
+}
+
+body {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem;
+  color: #f0f0f0;
+  margin-top: 50px;
+  /* muted green Spotify vibe */
+  background: linear-gradient(135deg, #1a2a20 0%, #274635 50%, #1a2a20 100%);
+}
+
+#visualizer {
+display: block;
+margin: 20px auto ;
+border-radius: 20px;
+background: radial-gradient(circle at center,#0a0a0a,#000);
+box-shadow: 0 0 25px rgba(29, 185, 84, 0.5);
+margin-top: -480px;
+}
+#main-content {
+  display: flex;
+  gap: 20px;
+}
+
+#artist-details {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+#artist-bio {
+  font-size: 1rem;
+  color: #b3b3b3;
+  padding: 8px 16px;
+  border-radius: 25px;
+  display: inline-block;
+  line-height: 1.5;
+  margin-top: 10px;
+  font-style: italic;
+}
+
+#artist-genre {
+  font-size: 0.9rem;
+  color: #8fcf8f;
+  padding: 6px 14px;
+  border-radius: 25px;
+  margin-top: 10px;
+  font-weight: 500;
+}
+.song-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  order: 1;
+}
+
+.song-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255,255,255,0.06);
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  transition: background 0.3 ease;
+}
+
+.song-item:hover {
+  background: rgba(29,185,84,0.15);
+}
+
+.song-title {
+  font-weight: 500;
+}
+
+.song-duration {
+  color: #b3b3b3;
+  font-size: 0.9rem;
+}
+
+#songs {
+  padding-right: 1750px;
+}
+
+#vinyl-container {
+  position: fixed;
+  bottom: -60px;
+  right: -60px;
+  width: 300px;
+  height: 300px;
+  z-index: 9999;
+  transition: transform 0.6s ease, opacity 0.4s ease;
+  cursor: pointer;
+}
+
+#vinyl {
+    width: 100%;
+    height: 100%;
+    border-radius:50%;
+    animation:spin 5s linear infinite;
+    filter: drop-shadow(0 0 10px rgba(255,255,255,0.4));
+    transition:  0.3s ease;
+}
+
+#vinyl:hover {
+    transform: translateY(-25px);
+    filter: drop-shadow(0 0 20px rgba(0,255,150,0.6));
+}
+
+#vinyl-player {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0,0,0,0.85);
+  padding: 1rem 2rem;
+  border-radius: 25px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 0 20px rgba(0,255,150,0.4);
+  z-index: 9999;
+}
+
+#vinyl-player.active {
+  display: flex;
+}
+
+#vinyl.spinning {
+  animation: spin 4s linear infinite;
+}
+
+#controls {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+#controls button {
+  background: rgba(29,185,84,0.8);
+  border: none;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 1.1rem;
+  transition: all 0.3s;
+}
+#controls button:hover {
+  background: rgba(29,185,84,1);
+  box-shadow: 0 0 10px rgba(29,185,84,0.7);
+}
+
+#back-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background:  rgba(29, 39, 185, 0.253);
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: al 0.3s ease;
+  box-shadow: 0 0 10px rgba(26, 255, 106, 0.4);
+}
+
+#back-button:hover {
+  transform: scale(1.08);
+  background: linear-gradient(135deg, rgb(73, 8, 223), rgb(48, 18, 129));
+  box-shadow: 0 0 25px rgba(29, 39, 185, 0.253), 0 0 10px rgba(14, 27, 211, 0.774);
+}
+
+#back-button:active {
+  transform: scale(0.95);
+  box-shadow: 0 0 25px rgba(29, 39, 185, 0.253);
+}
+
+.playlist {
+  width: 300px;
+  max-height: 400px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  max-width: 300px;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.song {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 8px 12px;
+  margin-bottom: 6px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  margin-right: 1650px;
+  gap: 20px;
+  display: flex;
+  flex-direction: flex-start;
+}
+
+.song:hover {
+  background-color: #ff0050;
+  color: #fff;
+}
+
+footer {
+    text-align: center;
+    bottom:10px;
+    margin-top: auto;
+    font-weight: 500;
+}
+
+footer a {
+  color: rgba(29, 185, 84, 0.7); 
+  text-decoration: none;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+#all {
+  background: rgba(206, 187, 15, 0.2);
+  border-radius: 25px;
+  margin-bottom: 10px;
+  display: inline-block; 
+  padding: 20px; 
+}
+
+#artist-cover {
+   background: linear-gradient(145deg, #0d1117, #1db95415);
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.35);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 280px;
+  margin: 20px auto;
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s ease, box-shadow 0.3s ease ;
+}
+
+#artist-cover:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 25px rgba(0,0,0,0.45);
+}
+
+#poster {
+  background: #541db9;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(29, 71, 185, 0.6);
+  transition: all 0.3;
+}
+
+#poster:hover {
+  background: #293394;
+  transform: scale(1.05);
+}
+
+
+@keyframes spin {
+    from {transform: rotate(0deg);}
+    to {transform: rotate(359deg);}
+}
+
+@media (max-width: 768px) {
+  .artist-info {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .artist-info img {
+    width: 140px;
+    height: 140px;
+  }
+
+  .vinyl {
+    width: 90px;
+    height: 90px;
+    top: -30px;
+    right: -30px;
+  }
+
+@font-face {
+  font-family: 'Industrial Sans';
+  src: url('../fonts/IndustrialSans-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Industrial Sans';
+  src: url('../fonts/IndustrialSans-Light.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+}

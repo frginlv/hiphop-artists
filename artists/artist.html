@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artist page</title>
+  <link rel="stylesheet" href="artist.css">
+</head>
+<body>
+  
+<div id="all">
+  <div id="main-content">
+    <h1 id="artist-name"></h1>
+    <img id="artist-cover">
+      <div id="artist-details">
+        <p id="artist-bio"></p>
+        <p id="artist-genre"></p>
+</div>
+  </div>
+      </div>
+
+<h2>Favorite Album : </h2>
+<div id="albums-list"></div>
+
+<h2 id="songs">Songs :</h2>
+<div id="songs-list"></div>
+
+<audio id="audio-player" ></audio>
+<canvas id="visualizer" width="1000" height="400"></canvas>
+<button id="back-button">
+  ⬅ Back to first page 
+</button>
+
+  
+<div id="vinyl-container">
+    <img src="../covers/images/vinyl.png" id="vinyl">
+</div>
+ 
+<button id="poster" class="poster-button">Download Your Poster for this artist</button>
+<footer>
+    <p> &copy;Made with 🫶🏽 by frginlv </p>
+    <a href="https://github.com/frginlv">github</a>  <!-- add the link here DON'T FORGET !!!!!-->
+</footer> 
+
+<div id="vinyl-player" >
+    <div id="vinyl">
+</div>
+    <h2 id="vinyl-artist"></h2>
+    <p id="vinyl-song"></p>
+  
+<div id="controls">
+      <button id="previous-button">⏮</button>
+      <button id="play-button">▶️</button>
+      <button id="next-button">⏭</button>
+      <button id="close-button">Close</button>
+      <button id="shuffle-button">Shuffle</button>
+</div>
+
+<div id="playlist">
+<!--the soongs are going to be here-->
+</div>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="artist.js"></script>
+<footer>
+    <p> &copy;Made with 🫶🏽 by frginlv </p>
+    <a href="https://github.com/frginlv">github</a>  <!-- add the link here DON'T FORGET !!!!!-->
+</footer> 
+</body>
+</html>

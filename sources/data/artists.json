@@ -1,0 +1,280 @@
+[
+{
+  "name": "Earl Sweatshirt",
+  "image":"../covers/images/earl sweatshirt.jpg",
+  "bio":"Thebe Neruda Kgositsile was born on February 24,1994 . Known as Earl Sweatshirt, works a rapper,producer (under tthe name of randomblackdude) and a dj , also known for his lyrical,cultural approche in his songs and was known since his debut in odd future with other artists that're very popular right now like Tyler the creator and Frank Ocean ",
+  "genre":"alternative HipHop, abstract Hiphop,Jazz Rap",
+  "spotify": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu?si=-32EzYqdQPyLEYINVkpl3w",
+  "albums" : [
+    {"title": "I don't like sh*t I don't go outside",
+     "year": "2015", 
+     "cover": "../covers/images/idlksidgo.jpeg",
+     "songs": [ 
+      {"title" : "Huey", "file": "../../sources/audio/idlsidgo/01 Earl Sweatshirt - Huey.mp3"} ,
+      {"title" : "Mantra", "file": "../../sources/audio/idlsidgo/02 Earl Sweatshirt - Mantra.mp3"},
+      {"title" : "Faucet", "file" : "../../sources/audio/idlsidgo/03 Earl Sweatshirt - Faucet.mp3"},
+      {"title" : "Grief", "file" : "../../sources/audio/idlsidgo/04 Earl Sweatshirt - Grief.mp3"},
+      {"title" : "Off Top", "file" : "../../sources/audio/idlsidgo/05 Earl Sweatshirt - Off Top.mp3"},
+      {"title" : "Grown Ups", "file" : "../../sources/audio/idlsidgo/06 Earl Sweatshirt - Grown Ups.mp3"},
+      {"title" : "AM__Radio", "file" : "../../sources/audio/idlsidgo/07 Earl Sweatshirt - AM/Radio.mp3"},
+      {"title" : "Inside", "file" : "../../sources/audio/idlsidgo/08 Earl Sweatshirt - Inside.mp3"},
+      {"title" : "DNA", "file" : "../../sources/audio/idlsidgo/09 Earl Sweatshirt - DNA.mp3"},
+      {"title" : "Wool", "file" : "../../sources/audio/idlsidgo/10 Earl Sweatshirt - Wool.mp3" }
+     ]
+    }
+  
+  ] 
+}
+,
+
+   {
+    "name": "Navy Blue",
+    "image": "../covers/images/navy blue.png",
+    "bio": "Sage Elsesser was born on January 31, 1997 known as Navy Blue. American rapper, model, skateboarder, visual artist and producer. He's kind of an underground artist known for his majestic beats and projects with Earl and The Alc.",
+    "genre": "alternative hip hop and abstract hip hop",
+    "spotify":"https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV?si=a716e390b7d54fe1",
+    "albums": [
+      {
+        "title": "Memoirs in Armour",
+        "cover": "../covers/images/navy.jpeg",
+        "songs": [
+          {"title": "Take Heed", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Take Heed.mp3"},
+          {"title": "Boulder", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Boulder.mp3"},
+          {"title": "Low Threshold", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Low Threshold.mp3"},
+          {"title": "Slow", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Slow.mp3"},
+          {"title": "Basis", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Basis.mp3"},
+          {"title": "Running Sand", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Running Sand.mp3"},
+          {"title": "Red Roses", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Red Roses.mp3"},
+          {"title": "Time Slips", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Time Slips.mp3"},
+          {"title": "Say The Word", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - Say The Word.mp3"},
+          {"title": "La Noche", "file": "../../sources/audio/idlsidgo/navy blue/Navy Blue - La Noche.mp3"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MIKE",
+    "image": "../covers/images/mike.webp",
+    "bio": "Michael Jordan Bonema (born October 19, 1998), professionally known as Mike, is an American rapper and producer from the Bronx, New York. He has garnered a well-earned buzz in the underground scene with the [sLUms] collective.",
+    "genre": "abstract hip hop",
+    "spotify":"https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU?si=2bc37b2360234797",
+    "albums": [
+      {
+        "title": "Burning Desire",
+        "year": "2023",
+        "cover": "../covers/images/burning desire.jpeg",
+        "songs": [
+          { "title": "Intro with Klein", "file": "../sources2/mf doom /Mike/Mike - Intro with Klein.mp3" },
+          { "title": "Dambe", "file": "../sources2/mf doom /Mike/Mike - Dambe.mp3" },
+          { "title": "Zap!", "file": "../sources2/mf doom /Mike/Mike - Zap!.mp3" },
+          { "title": "African Sex Freak Fantasy", "file": "../sources2/mf doom /Mike/Mike - African Sex Freak Fantasy.mp3" },
+          { "title": "Snake Charm", "file": "../sources2/mf doom /Mike/Mike - Snake Charm.mp3" },
+          { "title": "plz don't cut my wings (feat. Earl Sweatshirt)", "file": "../sources2/mf doom /Mike/Mike - plz don t cut my wings (feat. Earl Sweatshirt).mp3" },
+          { "title": "REAL LOVE with fashionspitta", "file": "../sources2/mf doom /Mike/Mike - REAL LOVE with fashionspitta.mp3" },
+          { "title": "U think Maybe? (feat. Liv.e & Venna)", "file": "../sources2/mf doom /Mike/Mike - U think Maybe (feat. Liv.e and Venna).mp3" },
+          { "title": "Zombie", "file": "../sources2/mf doom /Mike/Mike - Zombie.mp3" },
+          { "title": "Set the Mood", "file": "../sources2/mf doom /Mike/Mike - Set the Mood.mp3" },
+          { "title": "Billboards with Anuoluwapo 'Sandra' Majekodunmi", "file": "../sources2/mf doom /Mike/Mike - Billboards with Anuoluwapo Sandra Majekodunmi.mp3" },
+          { "title": "98", "file": "../sources2/mf doom /Mike/Mike - 98.mp3" },
+          { "title": "Do you Believe?", "file": "../sources2/mf doom /Mike/Mike - Do you Believe.mp3" },
+          { "title": "THEY DON'T STOP IN THE RAIN with TAKA", "file": "../sources2/mf doom /Mike/Mike - THEY DON T STOP IN THE RAIN with TAKA.mp3" },
+          { "title": "Baby Jesus", "file": "../sources2/mf doom /Mike/Mike - Baby Jesus.mp3" },
+          { "title": "Ho-Rizin", "file": "../sources2/mf doom /Mike/Mike - Ho-Rizin.mp3" },
+          { "title": "What U Say U Are", "file": "../sources2/mf doom /Mike/Mike - What U Say U Are.mp3" },
+          { "title": "Golden Hour", "file": "../sources2/mf doom /Mike/Mike - Golden Hour (feat. Larry June).mp3" },
+          { "title": "Playtime (Interlude)", "file": "../sources2/mf doom /Mike/Mike - Playtime (Interlude).mp3" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MAVI",
+    "image": "../covers/images/mavi.jpg",
+    "bio": "Omavi Minder, known as Mavi, is an American rapper from Charlotte, North Carolina. He gained recognition with his debut album 'Let the Sun Talk' in 2019.",
+    "genre": "abstract hip hop",
+    "spotify":"https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ?si=875559123b1e4f80",
+    "albums": [
+      {
+        "title": "Let the Sun Talk",
+        "cover" : "../covers/images/let the sun talk.jpeg",
+        "songs": [
+          {"title": "Terms & Conditions", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Terms Conditions.mp3"},
+          {"title": "Eye, I and I, and Nation", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Eye_I and I_Nation.mp3"},
+          {"title": "Daylight Savings", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Daylight Savings.mp3"},
+          {"title": "Selflove", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Self Love.mp3"},
+          {"title": "II", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - II.mp3"},
+          {"title": "Ghost (In The Shell)", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Ghost (In the Shell).mp3"},
+          {"title": "Love, of Money", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Love, of Money.mp3"},
+          {"title": "Sense", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Sense.mp3"},
+          {"title": "III", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - III.mp3"},
+          {"title": "Chiasma", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Chiasma.mp3"},
+          {"title": "Guernica", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Guernica.mp3"},
+          {"title": "Omavi", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Omavi.mp3"},
+          {"title": "Moonfire", "file": "../../sources/audio/idlsidgo/Mavi/Mavi - Moonfire.mp3"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Billy Woods",
+    "image": "../covers/images/billy woods.jpg",
+    "bio": "Billy Woods is an American rapper known for his dense, abstract lyrics and unconventional production. 'GOLLIWOG' is his fifth studio album, showcasing his unique style and thought-provoking themes.",
+    "genre": "Hip-Hop",
+    "spotify": "https://open.spotify.com/album/6YjoANrjcsf17p1OmWESfo?si=6L1HXnolRpiAkev2gRhDaA",
+    "instagram": "https://www.instagram.com/billywoods/",
+    "albums": [
+      {
+        "title": "GOLLIWOG",
+        "cover": "../covers/images/billy.jpeg",
+        "songs": [
+          {"title": "Jumpscare", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Jumpscare.mp3"},
+          {"title": "Star87", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - STAR87.mp3"},
+          {"title": "Misery", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Misery.mp3"},
+          {"title": "Blk Xmas", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - BLK XMAS.mp3"},
+          {"title": "Waterproof Mascara", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Waterproof Mascara.mp3"},
+          {"title": "Counterclockwise", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Counterclockwise.mp3"},
+          {"title": "Corinthians", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Corinthians.mp3"},
+          {"title": "Pitchforks & Halos", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Pitchforks Halos.mp3"},
+          {"title": "All These Worlds Are Yours", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - All These Worlds Are Yours.mp3"},
+          {"title": "Maquiladoras", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Maquiladoras.mp3"},
+          {"title": "A Doll Fulla Pins", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - A Doll Fulla Pins.mp3"},
+          {"title": "Golgotha", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Golgotha.mp3"},
+          {"title": "Cold Sweat", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Cold Sweat.mp3"},
+          {"title": "Blk Zmby", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - BLK ZMBY.mp3"},
+          {"title": "Make No Mistake", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Make No Mistake.mp3"},
+          {"title": "Born Alone", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Born Alone.mp3"},
+          {"title": "Lead Paint Test", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Lead Paint Test.mp3"},
+          {"title": "Dislocated", "file": "../../sources/audio/idlsidgo/billy woods/Billy Woods - Dislocated.mp3"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MF DOOM",
+    "image":"../covers/images/MF DOOM.png",
+    "bio":"Daniel Dumile (July 13, 1971 – October 31, 2020), a.k.a. MF DOOM, (who also rapped under further alter egos Viktor Vaughn and King Geedorah and in the collaborative project Madvillain) was an English-born American hip-hop artist, best known for his “super villain” stage persona and unique lyricism",
+    "genre":"alt and underground hip hop",
+    "spotify":"https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL?si=039e88efc5ac4e7a",
+    "albums": [
+      {
+        "title": "Madvillainy",
+        "cover": "../covers/images/doom.jpeg",
+        "songs": [
+          {"title": "The Illest Villain", "file":"../sources2/mf doom //Madvillain - The Illest Villains.mp3"},
+          {"title": "Accordion", "file":"../../sources2/mf doom /02 Madvillain - Accordion.mp3"},
+          {"title": "Meat Grinder", "file":"../sources2/mf doom /03 Madvillain - Meat Grinder.mp3"},
+          {"title": "Bistro", "file":"../sources2/mf doom /Madvillain - Bistro.mp3"},
+          {"title": "Raid", "file":"../sources2/mf doom /05 Madvillain - Raid.mp3"},
+          {"title": "America's Most Blunted", "file":"../sources2/mf doom /06 Madvillain - America s Most Blunted.mp3"},
+          {"title": "Sickfit", "file":"../sources2/mf doom /07 Madvillain - Sickfit.mp3"},
+          {"title": "Rainbows", "file":"../sources2/mf doom /08 Madvillain - Rainbows.mp3"},
+          {"title": "Curls", "file":"../sources2/mf doom /09 Madvillain - Curls.mp3"},
+          {"title": "Do Not Fire!", "file":"../sources2/mf doom /10 Madvillain - Do Not Fire!.mp3"},
+          {"title": "Money Folder", "file":"../sources2/mf doom /11 Madvillain - Money Folder.mp3"},
+          {"title": "Shadows of Tomorrow", "file":"../sources2/mf doom /12 Madvillain - Shadows of Tomorrow.mp3"},
+          {"title": "Operation Lifesaver aka Mint Test", "file":"../sources2/mf doom /13 Madvillain - Operation Lifesaver aka Mint Test.mp3"},
+          {"title": "Figaro", "file":"../sources2/mf doom /14 Madvillain - Figaro.mp3"},
+          {"title": "Hardcore Hustle", "file":"../sources2/mf doom /15 Madvillain - Hardcore Hustle.mp3"},
+          {"title": "Strange Ways", "file":"../sources2/mf doom /16 Madvillain - Strange Ways.mp3"},
+          {"title": "Fancy Clown", "file":"../sources2/mf doom /17 Madvillain - Fancy Clown.mp3"},
+          {"title": "Eye", "file":"../sources2/mf doom /18 Madvillain - Eye.mp3"},
+          {"title": "Supervillain Theme", "file":"../sources2/mf doom /19 Madvillain - Supervillain Theme.mp3"},
+          {"title": "All Caps", "file":"../sources2/mf doom /20 Madvillain - All Caps.mp3"},
+          {"title": "Great Day", "file":"../sources2/mf doom /21 Madvillain - Great Day.mp3"}
+        ]
+      }
+    ]
+  },
+{
+  "name": "Action Bronson",
+  "image": "../covers/images/action bronson.png",
+  "bio": "Action Bronson is an American rapper, chef, and television personality known for his humorous lyrics and distinctive voice. 'Only for Dolphins' is his fifth studio album, showcasing his unique style and culinary references.",
+  "genre": "Hip-Hop",
+  "spotify": "https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k?si=khXkOqiQTSykKN_DwW08KQ",
+  "instagram": "https://www.instagram.com/bambambaklava/",
+  "albums": [
+    {
+      "title": "Only for Dolphins",
+      "cover": "../covers/images/dolphins.jpeg",
+      "songs": [
+        {"title": "Capoeira (feat. Yung Mehico)", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Capoeira.mp3"},
+        {"title": "C12H16N2", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - C12H16N2.mp3"},
+        {"title": "Latin Grammys", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Latin Grammys.mp3"},
+        {"title": "Golden Eye", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Golden Eye.mp3"},
+        {"title": "Mongolia (feat. Hologram & Meyhem Lauren)", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Mongolia.mp3"},
+        {"title": "Vega", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Vega.mp3"},
+        {"title": "Splash", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Splash.mp3"},
+        {"title": "Sergio", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Sergio.mp3"},
+        {"title": "Shredder", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Shredder.mp3"},
+        {"title": "Cliff Hanger", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Cliff Hanger.mp3"},
+        {"title": "Marcus Aurelius", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Marcus Aurelius.mp3"},
+        {"title": "Hard Target", "file": "../../sources/audio/idlsidgo/action bronson/Action Bronson - Hard Target.mp3"}
+      ]
+    }
+  ]
+}
+,
+{
+  "name": "Mac Miller",
+  "image": "../covers/images/mac miller.png",
+  "bio": "Malcolm James McCormick (January 19, 1992 – September 7, 2018), known professionally as Mac Miller, was an American rapper and record producer from Pittsburgh, Pennsylvania. He was best known for his evolution as an artist and his ability to blend genres, incorporating jazz, soul, funk, and even psychedelia into his raps.",
+  "genre": "Hip-Hop, Jazz Rap, Alternative Hip-Hop",
+  "spotify": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R?si=110ckeOUTOev0HWvmmAuJw",
+  "instagram": "https://www.instagram.com/macmiller/",
+  "albums": [
+    {
+      "title": "K.I.D.S.",
+      "cover": "../covers/images/mac.jpeg",
+      "songs": [
+        {"title": "Kickin' Incredibly Dope Shit (Intro)", "file": "../../sources/audio/idlsidgo/mac miller /MAC MILLER - Kickin Incredibly Dope Shit (Intro).mp3"},
+        {"title": "Outside", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Outside.mp3"},
+        {"title": "Get Em Up", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Get Em Up.mp3"},
+        {"title": "Nikes On My Feet", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Nikes on My Feet.mp3"},
+        {"title": "Senior Skip Day", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Senior Skip Day.mp3"},
+        {"title": "The Spins", "file": "../../sources/audio/idlsidgo/mac miller /MAC MILLER - The Spins.mp3"},
+        {"title": "Don't Mind If I Do", "file": "../../sources/audio/idlsidgo/mac miller /MAC MILLER - Don t Mind If I Do.mp3"},
+        {"title": "Paper Route", "file": "../../sources/audio/idlsidgo/mac miller /MAC MILLER - Paper Route (feat. Chevy Woods).mp3"},
+        {"title": "Good Evening", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Good Evening.mp3"},
+        {"title": "Ride Around", "file": "../../sources/audio/idlsidgo/mac miller /MAC MILLER - Ride Around.mp3"},
+        {"title": "Knock Knock", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Knock Knock.mp3"},
+        {"title": "Mad Flava, Heavy Flow (Interlude)", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Mad Flava, Heavy Flow (Interlude) [feat. DJ Bon.mp3"},
+        {"title": "Kool Aid & Frozen Pizza", "file": "../../sources/audio/idlsidgo/mac miller /MAC MILLER - Kool Aid Frozen Pizza.mp3"},
+        {"title": "All I Want Is You", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - All I Want Is You.mp3"},
+        {"title": "Poppy", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Poppy.mp3"},
+        {"title": "Face In The Crowd", "file": "../../sources/audio/idlsidgo/mac miller /Mac Miller - Face In The Crowd.mp3"}
+      ]
+    }
+  ]
+},
+
+  {
+    "name": "Boldy James & The Alchemist",
+    "image": "../covers/images/boldy james.jpg",
+    "bio": "James Clay Jones III (born August 9, 1982), better known by his stage name Boldy James, is an American rapper from Detroit, Michigan. His debut album My 1st Chemistry Set was released on October 15, 2013 and was handled on the side of production by The Alchemist. Previously signed to Nas‘ Mass Appeal label as one of the first three signees, he is currently under Griselda.",
+    "genre": "Hip-Hop",
+    "spotify":"https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY?si=00f543ac5cd54280",
+    "albums": [
+      {
+        "title": "Super Tecmo Bo",
+        "year": "2021",
+        "cover": "../covers/images/boldy.png",
+        "songs": [
+          {"title": "Level Tipping Scales", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Level Tipping Scales(1).mp3"},
+          {"title": "No Laughing Matter", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - No Laughing Matter(1).mp3"},
+          {"title": "Hot Water Tank", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Hot Water Tank(1).mp3"},
+          {"title": "Bumps & Bruises", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Bumps and Bruises(1).mp3"},
+          {"title": "Great Adventures", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Great Adventures.mp3"},
+          {"title": "Moth In The Flame", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Moth In The Flame.mp3"},
+          {"title": "300 Fences", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - 300 Fences.mp3"},
+          {"title": "Guilt", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Guilt.mp3"},
+          {"title": "Francois", "file": "../sources/audio/idlsidgo/boldy james/Boldy James - Francois.mp3"}
+        ]
+      }
+    ]
+  }
+
+
+
+]
+
+
